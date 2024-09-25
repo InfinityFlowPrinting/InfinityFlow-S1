@@ -38,4 +38,4 @@ This folder contains the **Bambu A1** and **A1 Mini** adapters designed to work 
 ## CAD File Information
 - File Format: **.STL**
 - Last Updated: **September 25, 2024**
-- Size: [XX KB/MB]
+- Size: **347 KB**
