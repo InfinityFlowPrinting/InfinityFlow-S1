@@ -19,7 +19,6 @@ The Infinity Flow S1 is a universal filament switcher designed to bring seamless
 ## Installation
 
 ### Prerequisites
-- A 3D printer with compatible software (e.g., Cura, PrusaSlicer).
 - CAD software like Fusion 360, SolidWorks, or any STL viewer to open and modify the files if needed.
 
 ### Downloading the Models
@@ -40,8 +39,8 @@ The Infinity Flow S1 is a universal filament switcher designed to bring seamless
 
 ### Example Adapters
 - **Prusa Mark 4 Adapter**: A threaded adapter for easy connection.
-- **Ender 3 Adapter**: A simple adapter for printers with a hole-style filament insertion.
-- **Pulse Adapter**: Customizable adapter piece that fits onto existing hardware.
+- **Ceraliy K1/K1 Max**: A simple adapter for printers with a existing bowden inlet extruder.
+- **Prusa MKi3 Adapter**: Customizable adapter piece that fits onto existing hardware.
 
 ## CAD Models
 
