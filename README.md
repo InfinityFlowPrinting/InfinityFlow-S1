@@ -25,7 +25,7 @@ The Infinity Flow S1 is a universal filament switcher designed to bring seamless
 ### Downloading the Models
 1. Clone the repository or download the ZIP file directly from GitHub.
    
-   git clone https://github.com/yourcompany/infinity-flow-s1-adapters.git
+   git clone [https://github.com/yourcompany/infinity-flow-s1-adapters.git](https://github.com/InfinityFlowPrinting/Adapter-Models.git)
    
 3. Navigate to the folder containing the CAD models.
 4. Open the files in your preferred CAD software or upload the STL files directly to your slicing software.
