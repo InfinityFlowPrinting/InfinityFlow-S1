@@ -49,7 +49,6 @@ Here is a list of the CAD models included in this repository:
 
 | Model Name       | Description                                              | File Type |
 |------------------|----------------------------------------------------------|-----------|
-| Prusa_Adapter    | Threaded adapter for Prusa Mark 4                         | `.stl`    |
 | Ender3_Adapter   | Adapter for Ender 3 with a simple hole filament insertion | `.stl`    |
 | Pulse_Adapter    | Custom adapter for the Pulse printer                      | `.stl`    |
 
