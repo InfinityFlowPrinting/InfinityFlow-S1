@@ -50,7 +50,7 @@ Here is a list of the CAD models included in this repository:
 | Model Name       | Description                                              | File Type |
 |------------------|----------------------------------------------------------|-----------|
 | A1_Adapter       | Adapter for Bambu A1 and A1 Mini                         | `.stl`    |
-| MK3_Adapter      | Adapter for Prusa K1 and K1 Max                          | `.stl`    |
+| MKi3_Adapter     | Adapter for Prusa MK i3                                  | `.stl`    |
 
 ## Contributing
 
