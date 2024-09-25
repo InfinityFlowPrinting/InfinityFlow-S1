@@ -25,7 +25,7 @@ The Infinity Flow S1 is a universal filament switcher designed to bring seamless
 ### Downloading the Models
 1. Clone the repository or download the ZIP file directly from GitHub.
    
-   git clone https://github.com/yourcompany/infinity-flow-s1-adapters.git
+   git clone [https://github.com/yourcompany/infinity-flow-s1-adapters.git](https://github.com/InfinityFlowPrinting/Adapter-Models.git)
    
 3. Navigate to the folder containing the CAD models.
 4. Open the files in your preferred CAD software or upload the STL files directly to your slicing software.
@@ -49,9 +49,8 @@ Here is a list of the CAD models included in this repository:
 
 | Model Name       | Description                                              | File Type |
 |------------------|----------------------------------------------------------|-----------|
-| Prusa_Adapter    | Threaded adapter for Prusa Mark 4                         | `.stl`    |
-| Ender3_Adapter   | Adapter for Ender 3 with a simple hole filament insertion | `.stl`    |
-| Pulse_Adapter    | Custom adapter for the Pulse printer                      | `.stl`    |
+| A1_Adapter       | Adapter for Bambu A1 and A1 Mini                         | `.stl`    |
+| BondTech_Adapter | Custom adapter for the BondTech printer                  | `.stl`    |
 
 ## Contributing
 
