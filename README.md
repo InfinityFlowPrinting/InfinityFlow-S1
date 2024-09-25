@@ -50,7 +50,7 @@ Here is a list of the CAD models included in this repository:
 | Model Name       | Description                                              | File Type |
 |------------------|----------------------------------------------------------|-----------|
 | A1_Adapter       | Adapter for Bambu A1 and A1 Mini                         | `.stl`    |
-| BondTech_Adapter | Custom adapter for the BondTech printer                  | `.stl`    |
+| MK3_Adapter      | Adapter for Prusa K1 and K1 Max                          | `.stl`    |
 
 ## Contributing
 
