@@ -49,8 +49,8 @@ Here is a list of the CAD models included in this repository:
 
 | Model Name       | Description                                              | File Type |
 |------------------|----------------------------------------------------------|-----------|
-| Ender3_Adapter   | Adapter for Ender 3 with a simple hole filament insertion | `.stl`    |
-| Pulse_Adapter    | Custom adapter for the Pulse printer                      | `.stl`    |
+| A1_Adapter       | Adapter for Bambu A1 and A1 Mini                         | `.stl`    |
+| BondTech_Adapter | Custom adapter for the BondTech printer                  | `.stl`    |
 
 ## Contributing
 
