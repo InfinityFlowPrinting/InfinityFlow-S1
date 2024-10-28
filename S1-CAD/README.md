@@ -1,4 +1,4 @@
-<img src="./images/S1_Rendering.png" alt="Logo" width="1000">
+<img src="./images/S1_Rendering.png" alt="Logo" width="500">
 
 # S1-CAD
 
