@@ -2,54 +2,17 @@
   <img src="./images/logo.png" alt="Logo" width="200" height="200" style="border-radius: 50%;">
 </p>
 
+# Infinity Flow S1 CAD Downloads
 
-# Infinity Flow S1
-
-**Effortlessly attach your printer to the Infinity Flow S1!**  
-This repository includes all CAD files for adapters compatible with various printers and the CAD files for the S1 itself, along with instructions for setup.
+Welcome to the Infinity Flow S1 CAD Downloads repository! This repository provides all necessary CAD files and assembly instructions for integrating the Infinity Flow S1 into your 3D printing setup.
 
 <img src="./images/S1_Rendering.png" alt="Logo" width="1000">
 
-## Table of Contents
-- [Project Description](#project-description)
-- [Installation and Setup](#installation-and-setup)
-- [Folder Structure](#folder-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## Repository Structure
 
-## Project Description
-The Infinity Flow S1 is designed to streamline and enhance your 3D printing experience. It automatically detects filament runout, switches spools, and enables uninterrupted printing. This repository contains:
-- **Adapters**: CAD files to attach specific printers to the S1.
-- **S1 Parts**: CAD files for the S1 device.
+This repository is organized into two primary folders:
 
-## Installation and Setup
-1. **Download the Repository**  
-   Clone the repository to access all files:
-   ```bash
-   git clone https://github.com/yourusername/Infinity-Flow-S1.git
-   ```
-2. **Select Your Adapter**  
-   Navigate to the `/Adapters` folder and locate the folder for your specific printer model.
+1. **S1-CAD/**: Contains the main assembly model of the S1 device and roller models for various filament spool sizes. Use this section to visualize the S1’s space requirements in your setup and print specific components if desired.
+2. **Adapter-Models/**: Houses adapter files for connecting the S1 to various 3D printer brands. Current support includes Bambu, Prusa, and Creality models.
 
-3. **Follow Setup Instructions**  
-   Inside each adapter folder, find detailed instructions on how to assemble and attach the adapter to your printer.
-
-## Folder Structure
-- **Adapters/**  
-  Contains CAD files and instructions for adapters compatible with specific printer models.
-- **S1_Parts/**  
-  Houses all S1 components and assembly CADs.
-
-## Usage
-- **Adapter Setup**: Follow the setup instructions in each adapter’s folder to connect your printer to the S1.
-- **S1 Assembly**: For S1 assembly, refer to the assembly instructions in `/S1_Parts`.
-
-## Contributing
-We welcome contributions! To propose improvements or new adapters, please:
-1. Fork the repository.
-2. Create a new branch (`feature-your-feature-name`).
-3. Submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+For specific assembly instructions and usage guidelines, refer to the README files located in each subfolder.

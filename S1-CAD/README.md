@@ -1,32 +1,15 @@
 # S1-CAD
 
-This folder contains STL files for the Infinity Flow S1, including a full assembly model and separate folders for each roller size (1kg, 3kg, and 5kg). The files are provided to help users visualize the S1’s dimensions in their CAD models and to print specific roller components if needed.
+The `S1-CAD` folder contains CAD files that enable users to incorporate the Infinity Flow S1 into their 3D printer setups. This includes a complete model of the S1 device to help with layout planning and STL files for printable roller components.
 
-## Contents
+### Folder Structure
 
-- **Full Assembly**:  
-  - `S1_Full_Assembly.stl`: A complete model of the S1. Use this file to add the full assembly into your CAD software to understand the space requirements for the S1 in your setup.
+1. **S1-Main-Assembly/**: Contains the full assembly model of the S1, allowing users to assess the space it will occupy in their printing environment.
+2. **S1-Rollers/**: Contains STL files for rollers designed to fit 1kg, 3kg, and 5kg filament spools. Each roller type has its own folder with assembly instructions for users wishing to print the rollers themselves.
 
-- **Roller Folders**:
-  Each roller size has its own folder with multiple STL parts required for assembly:
-  
-  - **1kg Roller**:
-    - Located in `1kg_Roller/`
-    - Contains all necessary STL files for assembling the 1kg roller
+For more details on each roller, including assembly instructions, please refer to the `README.md` files in each roller’s folder.
 
-  - **3kg Roller**:
-    - Located in `3kg_Roller/`
-    - Contains all necessary STL files for assembling the 3kg roller
+### Usage
 
-  - **5kg Roller**:
-    - Located in `5kg_Roller/`
-    - Contains all necessary STL files for assembling the 5kg roller
-
-## Usage
-
-1. **Importing into CAD Software**:  
-   Import the `.stl` files into your CAD software to view the S1 assembly or specific roller components. This can help with layout planning, particularly for space and placement within your 3D printer setup.
-
-2. **3D Printing**:
-   - Navigate to the specific roller folder (1kg, 3kg, or 5kg) based on your filament spool size.
-   - Use the included STL files to print each part and assemble the roller. Ensure appropriate print settings for material strength and accuracy based on your 3D printer.
+- **Main Assembly**: Import the `S1_Full_Assembly.stl` file into your CAD software to determine the space requirements for the S1 in your setup.
+- **Rollers**: Choose the roller size suited to your filament spool, and follow the specific instructions within each roller folder to print and assemble it.
