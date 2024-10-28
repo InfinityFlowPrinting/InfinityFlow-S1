@@ -1,6 +1,8 @@
 # S1-CAD
 
-<img src="./images/1.png" alt="Logo" width="500">
+<p align="center">
+  <img src="./images/1.png" alt="Logo" width="500">
+</p>
 
 The `S1-CAD` folder provides all necessary CAD files for integrating the Infinity Flow S1 into your 3D printing setup. This includes a full assembly model to assess spatial requirements and STL files for printable roller components compatible with 1kg, 3kg, and 5kg filament spools.
 
