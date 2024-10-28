@@ -1,4 +1,4 @@
-# S1-CAD
+<h1 align="center">S1-CAD</h1>
 
 <p align="center">
   <img src="./images/1.png" alt="Logo" width="500">
