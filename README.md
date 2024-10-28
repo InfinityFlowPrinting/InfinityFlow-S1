@@ -16,3 +16,9 @@ This repository is organized into two primary folders:
 2. **Adapter-Models/**: Houses adapter files for connecting the S1 to various 3D printer brands. Current support includes Bambu, Prusa, and Creality models.
 
 For specific assembly instructions and usage guidelines, refer to the README files located in each subfolder.
+
+## Collaboration and Contributions
+
+We encourage community collaboration! If you have improvements, new adapters, or other helpful additions, please see the **Adapter Models** folder for detailed steps on contributing your designs through pull requests.
+
+For more details, check out our [website](https://infinityflow3d.com/).
