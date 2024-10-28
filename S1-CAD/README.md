@@ -1,15 +1,18 @@
+<img src="./images/S1_Rendering.png" alt="Logo" width="1000">
+
 # S1-CAD
 
-The `S1-CAD` folder contains CAD files that enable users to incorporate the Infinity Flow S1 into their 3D printer setups. This includes a complete model of the S1 device to help with layout planning and STL files for printable roller components.
+The `S1-CAD` folder provides all necessary CAD files for integrating the Infinity Flow S1 into your 3D printing setup. This includes a full assembly model to assess spatial requirements and STL files for printable roller components compatible with 1kg, 3kg, and 5kg filament spools.
 
-### Folder Structure
+## Folder Contents
 
-1. **S1-Main-Assembly/**: Contains the full assembly model of the S1, allowing users to assess the space it will occupy in their printing environment.
-2. **S1-Rollers/**: Contains STL files for rollers designed to fit 1kg, 3kg, and 5kg filament spools. Each roller type has its own folder with assembly instructions for users wishing to print the rollers themselves.
+### 1. S1-Main-Assembly
 
-For more details on each roller, including assembly instructions, please refer to the `README.md` files in each roller’s folder.
+- **Purpose**: The `S1_Main_Assembly.stl` file is a complete model of the S1 device, allowing users to visualize the space it occupies within a 3D printing setup.
+- **Usage**: Import the STL file into your preferred CAD software to plan your setup with the S1 in mind, ensuring adequate spacing for smooth operation.
 
-### Usage
+### 2. S1-Rollers
 
-- **Main Assembly**: Import the `S1_Full_Assembly.stl` file into your CAD software to determine the space requirements for the S1 in your setup.
-- **Rollers**: Choose the roller size suited to your filament spool, and follow the specific instructions within each roller folder to print and assemble it.
+The `S1-Rollers` section contains individual folders with STL files for rollers compatible with specific filament spool sizes. Each roller size (1kg, 3kg, and 5kg) includes all parts necessary for assembly.
+
+For detailed assembly instructions for each roller, please refer to our [website](https://infinityflow3d.com/).
