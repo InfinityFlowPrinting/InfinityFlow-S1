@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 48px;">S1-CAD</h1>
+<h1 align="center" style="font-size: 100px;">S1-CAD</h1>
 
 
 <p align="center">
