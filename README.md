@@ -1,17 +1,24 @@
+<p align="center">
+  <img src="./images/logo.png" alt="Logo" width="200" height="200" style="border-radius: 50%;">
+</p>
+
+
 # Infinity Flow S1
 
 **Effortlessly attach your printer to the Infinity Flow S1!**  
 This repository includes all CAD files for adapters compatible with various printers and the CAD files for the S1 itself, along with instructions for setup.
 
+<img src="./images/S1_Rendering.png" alt="Logo" width="1000">
+
 ## Table of Contents
-- [Overview](#overview)
+- [Project Description](#project-description)
 - [Installation and Setup](#installation-and-setup)
 - [Folder Structure](#folder-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Overview
+## Project Description
 The Infinity Flow S1 is designed to streamline and enhance your 3D printing experience. It automatically detects filament runout, switches spools, and enables uninterrupted printing. This repository contains:
 - **Adapters**: CAD files to attach specific printers to the S1.
 - **S1 Parts**: CAD files for the S1 device.

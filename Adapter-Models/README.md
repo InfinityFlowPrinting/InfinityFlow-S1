@@ -1,18 +1,11 @@
-<p align="center">
-  <img src="./images/logo.png" alt="Logo" width="200" height="200" style="border-radius: 50%;">
-</p>
-
-
 # Adapter-Models
 Infinity Flow S1 Adapter CAD Models
 
-This repository contains CAD models for adapters designed to work with the Infinity Flow S1 filament switcher. These models can be downloaded, 3D printed, and used to integrate the S1 with various 3D printer models. Whether you're looking to connect your S1 to a Prusa, Ender, or any other compatible printer, these models should help you get started.
-
-<img src="./images/S1_Rendering.png" alt="Logo" width="1000">
+This directory contains CAD models for adapters designed to work with the Infinity Flow S1 filament switcher. These models can be downloaded, 3D printed, and used to integrate the S1 with various 3D printer models. Whether you're looking to connect your S1 to a Prusa, Ender, or any other compatible printer, these models should help you get started.
 
 
 ## Table of Contents
-- [Project Description](#project-description)
+- [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
 - [CAD Models](#cad-models)
@@ -20,9 +13,9 @@ This repository contains CAD models for adapters designed to work with the Infin
 - [License](#license)
 - [Contact](#contact)
 
-## Project Description
+## Overview
 
-The Infinity Flow S1 is a universal filament switcher designed to bring seamless automation to any 3D printer. This repository offers a collection of CAD models for adapters that can be used to connect the S1 to various printer types. These models are freely available for download and modification to suit your specific needs.
+This directory offers a collection of CAD models for adapters that can be used to connect the S1 to various printer types. These models are freely available for download and modification to suit your specific needs.
 
 ## Installation
 
