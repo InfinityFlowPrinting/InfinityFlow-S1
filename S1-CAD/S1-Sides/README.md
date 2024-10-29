@@ -71,7 +71,7 @@ The `S1-Rollers` folder contains STL files for printing rollers compatible with 
 <table>
   <tr>
     <td width="50%">
-      <img src="./images/IMG_0267.jpg" alt="Step 4 Image" width="100%">
+      <img src="./images/IMG_0267.JPG" alt="Step 4 Image" width="100%">
     </td>
     <td width="50%">
       <ol>
