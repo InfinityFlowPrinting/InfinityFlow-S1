@@ -38,32 +38,16 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
 
 ## Part 2: Hardware Modifications
 
-### Step 1: Screws
 <table>
   <tr>
     <td width="50%">
       <img src="add-image-location-here" alt="Hardware Modifications" width="100%">
     </td>
     <td width="50%">
-      <ol>
+      <ul>
         <li>Remove 3 screws on front cover, "PG-case"</li>
-      </ol>
-    </td>
-  </tr>
-</table>
-
----
-
-### Step 2: Remove Cover
-<table>
-  <tr>
-    <td width="50%">
-      <img src="add-image-location-here" alt="Hardware Modifications" width="100%">
-    </td>
-    <td width="50%">
-      <ol>
         <li>Remove cover</li>
-      </ol>
+      </ul>
     </td>
   </tr>
 </table>
@@ -72,17 +56,17 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
 
 ## Part 3: Attaching the Adapter
 
-### Step 1: Gather Hardware
 <table>
   <tr>
     <td width="50%">
       <img src="add-image-location-here" alt="Attach the Adapter" width="100%">
     </td>
     <td width="50%">
-      <ol>
+    <p><h2>Step 1: Gather Hardware</h2></p>
+      <ul>
         <li>A1_Adapter (1x)</li>
         <li>Bowden Push Fitting (1x)</li>
-      </ol>
+      </ul>
       <p><strong>Note:</strong> To make this easier we recommend grabing a hard back book to push on</p>
     </td>
   </tr>
@@ -90,19 +74,19 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
 
 ---
 
-### Step 2: Adapter Assembly 
 <table>
   <tr>
     <td width="50%">
       <img src="add-image-location-here" alt="Attach the Adapter" width="100%">
     </td>
     <td width="50%">
-      <ol>
+    <p><h2>Step 2: Adapter Assembly</h2></p>
+      <ul>
         <li>Place adapter on table</li>
         <li>Take off black ring from the fitting and place in adapter</li>
         <li>Place blue seat on top</li>
         <li>Gently press the adapter together (book recommended)</li>
-      </ol>
+      </ul>
       <p><strong>Note:</strong> There are 2 rings on the push fitting. Make sure only the bottom one is removed.</p>
     </td>
   </tr>
@@ -110,36 +94,36 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
 
 ---
 
-### Step 3: Attach Adapter
 <table>
   <tr>
     <td width="50%">
       <img src="add-image-location-here" alt="Attach the Adapter" width="100%">
     </td>
     <td width="50%">
-      <ol>
+    <p><h2>Step 3: Attach Adapter</h2></p>
+      <ul>
         <li> Orient the adapter correclty (arrow in front)</li>
         <li> Press into printer opening until *click* is heard and adapter sits all the way down</li>
-      </ol>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-### Step 4: Plugging in the S1
 <table>
   <tr>
     <td width="50%">
       <img src="add-image-location-here" alt="Plug in the S1" width="100%">
     </td>
     <td width="50%">
-      <ol>
+    <p><h2>Step 4: Plugging in the S1</h2></p>
+      <ul>
         <li>Insert the Bowden tube into the adapter’s feed port</li>
         <li>Ensure the S1 is positioned securely and all connections are properly seated</li>
         <li>Turn on the S1 and verify that it loads as expected</li>
         <li>Begin printing :)</li>
-      </ol>
+      </ul>
       <p><strong>Note:</strong> Check all connections for a secure fit, and ensure there are no loose cables.</p>
     </td>
   </tr>

@@ -7,15 +7,14 @@ This folder contains information for the **Bambu A1** and **A1 Mini** adapter, d
 - **Bambu A1 Mini**
 
 ## Contents
-- **A1_Adapter.stl**: Directly printable file
-- **A1_Adapter.stp**: Allterable CAD file
+- **A1_Adapter.stl**: Printable file
+- **A1_Adapter.stp**: CAD file
 
 # S1 Adapter Installation Guide
 
 Follow these steps to print, modify, attach, and connect your S1 adapter to ensure a seamless setup.
 
 ---
-<center>
 
 ## Part 1: Printing the Adapter
 
@@ -69,7 +68,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
         <li>A1_Adapter (1x)</li>
         <li>Bowden Push Fitting (1x)</li>
       </ul>
-      <li><strong>Note:</strong> To make this easier we recommend grabing a pair of pliers</li>
+      <p><strong>Note:</strong> To make this easier we recommend grabing a pair of pliers</p>
     </td>
   </tr>
 </table>
@@ -87,7 +86,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
         <li>Place blue seat on top</li>
         <li>Gently press the adapter together (pliers recommended)</li>
       </ul>
-      <li><strong>Note:</strong> There are 2 rings on the push fitting. Make sure only the bottom one is removed.</li>
+      <p><strong>Note:</strong> There are 2 rings on the push fitting. Make sure only the bottom one is removed.</p>
     </td>
   </tr>
 </table>
@@ -120,12 +119,10 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
         <li>Turn on the S1 and verify that it loads as expected</li>
         <li>Begin printing :)</li>
       </ul>
-      <li><strong>Note:</strong> Check all connections for a secure fit, and ensure there are no loose cables.</li>
+      <p><strong>Note:</strong> Check all connections for a secure fit, and ensure there are no loose cables.</p>
     </td>
   </tr>
 </table>
-
-</center>
 
 ---
 
