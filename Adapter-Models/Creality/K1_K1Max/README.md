@@ -21,9 +21,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
     </td>
     <td width="50%">
       <ol>
-        <li>Step 1: ___</li>
-        <li>Step 2: ___</li>
-        <li>...</li>
+        <li>Attach adapter to printer existing bowden tube. (Blue Side)</li>
       </ol>
     </td>
   </tr>
@@ -44,7 +42,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
         <li>Ensure the S1 is positioned securely and all connections are properly seated.</li>
         <li>Turn on the S1 and verify that it is functioning as expected.</li>
       </ol>
-      <p><strong>Note:</strong> Check all connections for a secure fit, and ensure there are no loose cables.</p>
+      <p><strong>Note:</strong> Check all connections for a secure fit.</p>
     </td>
   </tr>
 </table>

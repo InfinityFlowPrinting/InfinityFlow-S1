@@ -66,9 +66,9 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
     </td>
     <td width="50%">
       <ol>
-        <li>Step 1: ___</li>
-        <li>Step 2: ___</li>
-        <li>...</li>
+        <li>Step 1: Insert Bowden press fitting into adapter</li>
+        <li>Step 2: Orient the adapter correclty</li>
+        <li>Step 3: Insert into printer opening until *click* is heard and adapter sits all the way down</li>
       </ol>
     </td>
   </tr>
