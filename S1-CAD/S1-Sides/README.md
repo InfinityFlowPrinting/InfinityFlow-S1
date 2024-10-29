@@ -102,4 +102,74 @@ The `S1-Rollers` folder contains STL files for printing rollers compatible with 
 
 ---
 
+### Step 6: Mounting Sides on the S1
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./images/5.png" alt="Step 6 Image" width="100%">
+    </td>
+    <td width="50%">
+      <ol>
+        <li>Place the side assembly against the S1 with the filament alignment slot in the roller closest to the S1.</li>
+        <li>Install the 2 M3x8mm screws through the side into the S1.</li>
+      </ol>
+      <p>⚠️ <strong>Warning:</strong> Be cautious not to over-tighten the screws to prevent thread stripping.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Step 7: Bowden Tube Attachment
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./images/4.png" alt="Step 7 Image" width="100%">
+    </td>
+    <td width="50%">
+      <ol>
+        <li>Feed the Bowden tube under the side and through the gap.</li>
+        <li>Press the Bowden tube firmly into the blue fitting.</li>
+      </ol>
+      <p><strong>Note:</strong> Ensure the tube is seated all the way to the black line on the Bowden tube.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Step 8: Front Brace - Nut Installation
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./images/11.png" alt="Step 8 Image" width="100%">
+    </td>
+    <td width="50%">
+      <ol>
+        <li>Install the square nuts into the front brace.</li>
+        <li>Ensure the nuts are pressed all the way into the slot.</li>
+      </ol>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Step 9: Front Brace - Final Installation
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./images/3.png" alt="Step 9 Image" width="100%">
+    </td>
+    <td width="50%">
+      <ol>
+        <li>Slide the front brace in the slot between the two sides.</li>
+        <li>Install the two M3x8mm screws and tighten them in place.</li>
+      </ol>
+    </td>
+  </tr>
+</table>
+
+---
+
 For further support, please refer to our [official website](https://yourwebsite.com).
