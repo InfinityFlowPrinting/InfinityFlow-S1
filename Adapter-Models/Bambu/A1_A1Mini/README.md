@@ -15,7 +15,7 @@ This folder contains information for the **Bambu A1** and **A1 Mini** adapter, d
 Follow these steps to print, modify, attach, and connect your S1 adapter to ensure a seamless setup.
 
 ---
-<div style="text-align: center;">
+<center>
 
 ## Part 1: Printing the Adapter
 
@@ -125,7 +125,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
   </tr>
 </table>
 
-</div>
+</center>
 
 ---
 
