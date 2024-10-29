@@ -1,33 +1,98 @@
 # Prusa MK4 Adapter
 
-This folder contains the adapter information for the **Prusa MK4**, designed to work with the **Infinity Flow S1** filament switcher. This adapter uses the **threaded inlet** on the Prusa MK4’s extruder, allowing for a secure connection without needing any custom CAD designs.
+This folder contains information for the **Prusa MK4** adapter, designed to work with the **Infinity Flow S1** filament loader. To connect the S1 to your MK4, you'll need the adapter that links the Bowden tube from the S1 to your printer's extruder. This adapter is available for download or purchase on our website.
 
 ## Printer Compatibility
-- Printer Model: **Prusa MK4**
-- Adapter Type: **Threaded inlet fitting**
+- **Prusa MK4**
 
-## Instructions for Use
+## Contents
+- **Adapter_Part1.stl**: (Description of part, if applicable)
 
-1. **Adapter Installation**:
-   - Locate the threaded inlet on your **Prusa MK4** extruder.
-   - Attach the fitting directly to the threads. Ensure it is tightly screwed in for a secure connection.
+# S1 Adapter Installation Guide
 
-2. **Connect to the Infinity Flow S1**:
-   - Insert the Bowden tube from the **Infinity Flow S1** into the installed fitting.
-   - Make sure the tube is securely connected to ensure smooth filament flow during print jobs.
+Follow these steps to print, modify, attach, and connect your S1 adapter to ensure a seamless setup.
 
-3. **Run Tests**:
-   - After installation, perform a filament loading test to ensure everything works properly with the S1 system.
-   - Verify there are no issues with the filament feeding.
+---
 
-4. **Disable Filament Runout Sensor (if necessary)**:
-   - For smooth operation of the **Infinity Flow S1**, you may need to disable the filament runout sensor on your Prusa MK4. This will prevent conflicts between the S1's automatic switching and the printer’s built-in detection system.
+## Step 1: Printing the Adapter
 
-## Customization Options
+<table>
+  <tr>
+    <td width="50%">
+      <img src="add-image-location-here" alt="Print the Adapter" width="100%">
+    </td>
+    <td width="50%">
+      <p><strong>Print Settings:</strong></p>
+      <ul>
+        <li>Material: ___</li>
+        <li>Layer Height: ___</li>
+        <li>Infill: ___</li>
+        <li>Print Orientation: Ensure the adapter is oriented as in picture</li>
+      </ul>
+      <p>After printing, inspect the adapter for any imperfections or weak spots, especially around mounting holes.</p>
+    </td>
+  </tr>
+</table>
 
-- **Direct Use**: This fitting is designed to perfectly fit the **Prusa MK4**'s threaded inlet. No CAD file is required, and it is ready for direct installation.
-- **Available on Our Website**: You can purchase the threaded fitting directly from our website for easy installation.
+---
 
-## Additional Notes
-- Ensure the fitting is properly tightened to avoid filament runout or feeding issues.
-- For assistance or further questions, feel free to contact our support team.
+## Step 2: Hardware Modifications
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="add-image-location-here" alt="Hardware Modifications" width="100%">
+    </td>
+    <td width="50%">
+      <ol>
+        <li>Step 1: ___</li>
+        <li>Step 2: ___</li>
+        <li>...</li>
+      </ol>
+      <p>⚠️ <strong>Warning:</strong> Be careful not to modify any critical hardware or wiring that could affect your printer’s function.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Step 3: Attaching the Adapter
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="add-image-location-here" alt="Attach the Adapter" width="100%">
+    </td>
+    <td width="50%">
+      <ol>
+        <li>Step 1: ___</li>
+        <li>Step 2: ___</li>
+        <li>...</li>
+      </ol>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Step 4: Plugging in the S1
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="add-image-location-here" alt="Plug in the S1" width="100%">
+    </td>
+    <td width="50%">
+      <ol>
+        <li>Insert the Bowden tube into the adapter’s feed port.</li>
+        <li>Ensure the S1 is positioned securely and all connections are properly seated.</li>
+        <li>Turn on the S1 and verify that it is functioning as expected.</li>
+      </ol>
+      <p><strong>Note:</strong> Check all connections for a secure fit, and ensure there are no loose cables.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+For other adapters, please refer to the respective model folders in the [Adapter-Models](../../) directory.

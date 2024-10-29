@@ -1,32 +1,99 @@
 # Creality K1 / K1 Max Adapter
 
-This folder contains the information for the **Creality K1** and **K1 Max** adapters, designed to work with the **Infinity Flow S1** filament switcher. To connect the S1 to your K1/K1 Max, you'll need a **fitting adapter** that links the Bowden tube from the S1 to your printer’s existing Bowden input. This adapter is available for purchase on our website.
+This folder contains information for the **Creality K1** and **K1 Max** adapter, designed to work with the **Infinity Flow S1** filament loader. To connect the S1 to your K1/K1 Max, you'll need the adapter that links the Bowden tube from the S1 to your printer's extruder. This adapter is available for purchase on our website.
 
 ## Printer Compatibility
-- Printer Model: **Creality K1** / **K1 Max**
-- Adapter Type: **Bowden fitting adapter**
+- **Creality K1**
+- **Creality K1 Max**
 
-## Instructions for Use
+## Contents
+- **Adapter_Part1.stl**: (Description of part, if applicable)
 
-1. **Purchase the Fitting Adapter**:
-   - You can purchase the **fitting adapter** directly from our website. This adapter ensures a seamless connection between the **Infinity Flow S1** and your printer’s Bowden input.
+# S1 Adapter Installation Guide
 
-2. **Install the Adapter**:
-   - Once you receive the adapter, attach it to the Bowden inlet on your K1/K1 Max extruder.
-   - Insert the **Bowden tube** from the **Infinity Flow S1** into the fitting adapter. Ensure a secure connection for smooth filament feeding.
+Follow these steps to print, modify, attach, and connect your S1 adapter to ensure a seamless setup.
 
-3. **Connect to the Infinity Flow S1**:
-   - Verify that the Bowden tube is properly seated in both the fitting adapter and the S1 to ensure smooth filament transitions during print jobs.
+---
 
-4. **Run Tests**:
-   - Perform a filament loading test to ensure everything works correctly with the S1 system.
-   - Check for any issues with filament feeding or alignment.
+## Step 1: Printing the Adapter
 
-## Customization Options
+<table>
+  <tr>
+    <td width="50%">
+      <img src="add-image-location-here" alt="Print the Adapter" width="100%">
+    </td>
+    <td width="50%">
+      <p><strong>Print Settings:</strong></p>
+      <ul>
+        <li>Material: ___</li>
+        <li>Layer Height: ___</li>
+        <li>Infill: ___</li>
+        <li>Print Orientation: Ensure the adapter is oriented as in picture</li>
+      </ul>
+      <p>After printing, inspect the adapter for any imperfections or weak spots, especially around mounting holes.</p>
+    </td>
+  </tr>
+</table>
 
-- **Direct Use**: The fitting adapter allows for a secure connection between the Infinity Flow S1 and your Creality K1/K1 Max.
-- **Available on Our Website**: You can purchase the fitting adapter from our website to ensure compatibility and ease of use.
+---
 
-## Additional Notes
-- Ensure that all connections are secure to avoid filament runout or feeding issues.
-- For further assistance or questions, feel free to contact our support team.
+## Step 2: Hardware Modifications
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="add-image-location-here" alt="Hardware Modifications" width="100%">
+    </td>
+    <td width="50%">
+      <ol>
+        <li>Step 1: ___</li>
+        <li>Step 2: ___</li>
+        <li>...</li>
+      </ol>
+      <p>⚠️ <strong>Warning:</strong> Be careful not to modify any critical hardware or wiring that could affect your printer’s function.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Step 3: Attaching the Adapter
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="add-image-location-here" alt="Attach the Adapter" width="100%">
+    </td>
+    <td width="50%">
+      <ol>
+        <li>Step 1: ___</li>
+        <li>Step 2: ___</li>
+        <li>...</li>
+      </ol>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Step 4: Plugging in the S1
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="add-image-location-here" alt="Plug in the S1" width="100%">
+    </td>
+    <td width="50%">
+      <ol>
+        <li>Insert the Bowden tube into the adapter’s feed port.</li>
+        <li>Ensure the S1 is positioned securely and all connections are properly seated.</li>
+        <li>Turn on the S1 and verify that it is functioning as expected.</li>
+      </ol>
+      <p><strong>Note:</strong> Check all connections for a secure fit, and ensure there are no loose cables.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+For other adapters, please refer to the respective model folders in the [Adapter-Models](../../) directory.

@@ -1,9 +1,12 @@
 # Adapter for Bambu A1 and A1 Mini
 
-This folder contains the necessary STL files for the Infinity Flow S1 adapter compatible with both the Bambu A1 and A1 Mini models.
+This folder contains information for the **Bambu A1** and **A1 Mini** adapter, designed to work with the **Infinity Flow S1** filament loader. To connect the S1 to your A1/A1 Mini, you'll need adapter that links the Bowden tube from the S1 to your printer's extruder. This adapter is available for download or purchase on our website.
+
+## Printer Compatibility
+- **Bambu A1**
+- **Bambu A1 Mini**
 
 ## Contents
-
 - **Adapter_Part1.stl**: (Description of part, if applicable)
 
 # S1 Adapter Installation Guide
