@@ -65,6 +65,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
     </td>
     <td width="50%">
       <ul>
+        <p><strong>Step 1: Gather Hardware</strong></p>
         <li>A1_Adapter (1x)</li>
         <li>Bowden Push Fitting (1x)</li>
       </ul>
