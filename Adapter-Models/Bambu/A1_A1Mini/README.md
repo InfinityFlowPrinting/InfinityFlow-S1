@@ -112,7 +112,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
       <img src="./images/P3S4.gif" alt="Plug in the S1" width="100%">
     </td>
     <td width="50%">
-    <strong>Step 4: Plugging in the S1</strong>
+    <p><strong style="font-size: 40px;">Step 4: Plugging in the S1</strong></p>
       <ul>
         <li>Insert the Bowden tube into the adapter’s feed port</li>
         <li>Ensure the S1 is positioned securely and all connections are properly seated</li>
