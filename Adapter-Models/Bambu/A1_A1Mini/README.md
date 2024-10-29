@@ -57,7 +57,6 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
 
 ## Part 3: Attaching the Adapter
 
-### Step 1: Gather Hardware
 <table>
   <tr>
     <td width="50%">
@@ -65,7 +64,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
     </td>
     <td width="50%">
       <ul>
-        <strong>Step 1: Gather Hardware</strong>
+      <strong>Step 1: Gather Hardware</strong>
         <li>A1_Adapter (1x)</li>
         <li>Bowden Push Fitting (1x)</li>
       </ul>
@@ -74,9 +73,6 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
   </tr>
 </table>
 
----
-
-### Step 2: Adapter Assembly 
 <table>
   <tr>
     <td width="50%">
@@ -84,6 +80,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
     </td>
     <td width="50%">
       <ul>
+      <li><strong>Step 2: Adapter Assembly</strong></li>
         <li>Take off black ring from the fitting</li>
         <li>Place push fitting into adapter</li>
         <li>Place blue seat on top</li>
@@ -94,9 +91,6 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
   </tr>
 </table>
 
----
-
-### Step 3: Attach Adapter
 <table>
   <tr>
     <td width="50%">
@@ -104,6 +98,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
     </td>
     <td width="50%">
       <ul>
+      <li><strong>Step 3: Attach Adapter</strong></li>
         <li> Orient the adapter correclty (arrow in front)</li>
         <li> Press into printer opening until *click* is heard and adapter sits all the way down</li>
       </ul>
@@ -111,9 +106,6 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
   </tr>
 </table>
 
----
-
-### Step 4: Plugging in the S1
 <table>
   <tr>
     <td width="50%">
@@ -121,6 +113,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
     </td>
     <td width="50%">
       <ul>
+      <li><strong>Step 4: Plugging in the S1</strong></li>
         <li>Insert the Bowden tube into the adapter’s feed port</li>
         <li>Ensure the S1 is positioned securely and all connections are properly seated</li>
         <li>Turn on the S1 and verify that it loads as expected</li>
