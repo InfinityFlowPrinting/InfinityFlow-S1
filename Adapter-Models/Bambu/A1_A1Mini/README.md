@@ -26,9 +26,9 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
     <td width="50%">
       <p><strong>Print Settings: "0.20mm Standard @BBL A1"</strong></p>
       <ul>
-        <li>Material: Generic PLA </li>
-        <li>Nozzle Diameter: .4mm </li>
-        <li>Print Orientation: Ensure the adapter is oriented as in picture</li>
+        <p>Material: Generic PLA </p>
+        <p>Nozzle Diameter: .4mm </p>
+        <p>Print Orientation: Ensure the adapter is oriented as in picture</p>
       </ul>
       <p>After printing, inspect the adapter for any imperfections or weak spots, especially around mounting holes.</p>
     </td>
@@ -46,7 +46,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
     </td>
     <td width="50%">
       <ol>
-        <li><strong>Carefully</strong> remove 4 to 1 fitting</li>
+        <p><strong>Carefully</strong> remove 4 to 1 fitting</p>
       </ol>
       <p><strong>Note:</strong> To make this easier we recommend using a flat head screwdriver</p>
     </td>
@@ -65,8 +65,8 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
     </td>
     <td width="50%">
       <ol>
-        <li>A1_Adapter (1x)</li>
-        <li>Bowden Push Fitting (1x)</li>
+        <p>A1_Adapter (1x)</p>
+        <p>Bowden Push Fitting (1x)</p>
       </ol>
       <p><strong>Note:</strong> To make this easier we recommend grabing a hard back book to push on</p>
     </td>
@@ -83,11 +83,11 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
     </td>
     <td width="50%">
       <ol>
-        <li>Place adapter on table</li>
-        <li>Take off black ring from the fitting</li>
-        <li>Place push fitting into adapter<li>
-        <li>Place blue seat on top</li>
-        <li>Gently press the adapter together (book recommended)</li>
+        <p>Place adapter on table</p>
+        <p>Take off black ring from the fitting</p>
+        <p>Place push fitting into adapter</p>
+        <p>Place blue seat on top</p>
+        <p>Gently press the adapter together (book recommended)</p>
       </ol>
       <p><strong>Note:</strong> There are 2 rings on the push fitting. Make sure only the bottom one is removed.</p>
     </td>
@@ -104,8 +104,8 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
     </td>
     <td width="50%">
       <ol>
-        <li> Orient the adapter correclty (arrow in front)</li>
-        <li> Press into printer opening until *click* is heard and adapter sits all the way down</li>
+        <p> Orient the adapter correclty (arrow in front)</p>
+        <p> Press into printer opening until *click* is heard and adapter sits all the way down</p>
       </ol>
     </td>
   </tr>
@@ -121,10 +121,10 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
     </td>
     <td width="50%">
       <ol>
-        <li>Insert the Bowden tube into the adapter’s feed port</li>
-        <li>Ensure the S1 is positioned securely and all connections are properly seated</li>
-        <li>Turn on the S1 and verify that it loads as expected</li>
-        <li>Begin printing :)</li>
+        <p>Insert the Bowden tube into the adapter’s feed port</p>
+        <p>Ensure the S1 is positioned securely and all connections are properly seated</p>
+        <p>Turn on the S1 and verify that it loads as expected</p>
+        <p>Begin printing :)</p>
       </ol>
       <p><strong>Note:</strong> Check all connections for a secure fit, and ensure there are no loose cables.</p>
     </td>
