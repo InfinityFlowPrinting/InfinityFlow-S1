@@ -86,7 +86,8 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
     <td width="50%">
       <ol>
         <li>Place adapter on table</li>
-        <li>Take off black ring from the fitting and place in adapter</li>
+        <li>Take off black ring from the fitting</li>
+        <li>Place push fitting into adapter<li>
         <li>Place blue seat on top</li>
         <li>Gently press the adapter together (book recommended)</li>
       </ol>
