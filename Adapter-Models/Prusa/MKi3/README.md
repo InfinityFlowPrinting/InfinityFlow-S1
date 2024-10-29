@@ -1,37 +1,97 @@
-# Prusa MK3 Adapter
-
-This folder contains the adapter information for the **Prusa MK3**, designed to work with the **Infinity Flow S1** filament switcher. This adapter replaces the original FS cover on the Prusa MK3 and allows for easy connection with the **press-fit** fitting.
+# Adapter for Prusa MKi3
+This folder contains information for the **Prusa MKi3** adapter, designed to work with the **Infinity Flow S1** filament loader. To connect the S1 to your MKi3, you'll need adapter that links the Bowden tube from the S1 to your printer's extruder. This adapter is available for download or purchase on our website.
 
 ## Printer Compatibility
-- Printer Model: **Prusa MK3**
-- Adapter Type: **Press-fit fitting**, replaces the original FS cover
+- **Prusa MKi3
 
-## Instructions for Use
+## Contents
+- **Adapter_Part1.stl**: (Description of part, if applicable)
 
-1. **Remove the Original FS Cover**:
-   - Unscrew and remove the existing FS (Filament Sensor) cover from your **Prusa MK3** using the two original screws.
+# S1 Adapter Installation Guide
 
-2. **Install the New Adapter**:
-   - Take the provided adapter model and align it with the original mounting points on the Prusa MK3.
-   - Use the **2 original screws** to secure the new adapter in place.
-   - Ensure the adapter is firmly attached to the extruder for secure filament guidance.
+Follow these steps to print, modify, attach, and connect your S1 adapter to ensure a seamless setup.
 
-3. **Connect to the Infinity Flow S1**:
-   - Insert the Bowden tube from the **Infinity Flow S1** into the press-fit fitting on the new adapter.
-   - Make sure the tube is securely connected to ensure smooth filament flow during print jobs.
+---
 
-4. **Run Tests**:
-   - After installation, perform a filament loading test to ensure everything works properly with the S1 system.
-   - Verify there are no issues with the filament feeding or alignment.
+## Step 1: Printing the Adapter
 
-5. **Disable Filament Runout Sensor (if necessary)**:
-   - For smooth operation of the **Infinity Flow S1**, you may need to disable the filament runout sensor on your Prusa MK3. This will prevent conflicts between the S1's automatic switching and the printer’s built-in detection system.
+<table>
+  <tr>
+    <td width="50%">
+      <img src="add-image-location-here" alt="Print the Adapter" width="100%">
+    </td>
+    <td width="50%">
+      <p><strong>Print Settings:</strong></p>
+      <ul>
+        <li>Material: ___</li>
+        <li>Layer Height: ___</li>
+        <li>Infill: ___</li>
+        <li>Print Orientation: Ensure the adapter is oriented as in picture</li>
+      </ul>
+      <p>After printing, inspect the adapter for any imperfections or weak spots, especially around mounting holes.</p>
+    </td>
+  </tr>
+</table>
 
-## Customization Options
+---
 
-- **Direct Use**: This adapter is designed to perfectly replace the original FS cover on the Prusa MK3 and works with a press-fit fitting.
-- **Available on Our Website**: You can purchase the press-fit fitting directly from our website for easy installation.
+## Step 2: Hardware Modifications
 
-## Additional Notes
-- Ensure the adapter and fitting are properly installed to avoid filament runout or feeding issues.
-- For assistance or further questions, feel free to contact our support team.
+<table>
+  <tr>
+    <td width="50%">
+      <img src="add-image-location-here" alt="Hardware Modifications" width="100%">
+    </td>
+    <td width="50%">
+      <ol>
+        <li>Step 1: ___</li>
+        <li>Step 2: ___</li>
+        <li>...</li>
+      </ol>
+      <p>⚠️ <strong>Warning:</strong> Be careful not to modify any critical hardware or wiring that could affect your printer’s function.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Step 3: Attaching the Adapter
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="add-image-location-here" alt="Attach the Adapter" width="100%">
+    </td>
+    <td width="50%">
+      <ol>
+        <li>Step 1: ___</li>
+        <li>Step 2: ___</li>
+        <li>...</li>
+      </ol>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Step 4: Plugging in the S1
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="add-image-location-here" alt="Plug in the S1" width="100%">
+    </td>
+    <td width="50%">
+      <ol>
+        <li>Insert the Bowden tube into the adapter’s feed port.</li>
+        <li>Ensure the S1 is positioned securely and all connections are properly seated.</li>
+        <li>Turn on the S1 and verify that it is functioning as expected.</li>
+      </ol>
+      <p><strong>Note:</strong> Check all connections for a secure fit, and ensure there are no loose cables.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+For other adapters, please refer to the respective model folders in the [Adapter-Models](../../) directory.
