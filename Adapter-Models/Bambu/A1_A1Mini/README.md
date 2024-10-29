@@ -68,7 +68,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
         <li>A1_Adapter (1x)</li>
         <li>Bowden Push Fitting (1x)</li>
       </ul>
-      <li><strong>Note:</strong> To make this easier we recommend grabing a hard back book to push on</li>
+      <li><strong>Note:</strong> To make this easier we recommend grabing a pair of pliers</li>
     </td>
   </tr>
 </table>
@@ -79,15 +79,14 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
 <table>
   <tr>
     <td width="50%">
-      <img src="add-image-location-here" alt="Attach the Adapter" width="100%">
+      <img src="./images/P3S2.gif" alt="Attach the Adapter" width="100%">
     </td>
     <td width="50%">
       <ul>
-        <li>Place adapter on table</li>
         <li>Take off black ring from the fitting</li>
         <li>Place push fitting into adapter</li>
         <li>Place blue seat on top</li>
-        <li>Gently press the adapter together (book recommended)</li>
+        <li>Gently press the adapter together (pliers recommended)</li>
       </ul>
       <li><strong>Note:</strong> There are 2 rings on the push fitting. Make sure only the bottom one is removed.</li>
     </td>
