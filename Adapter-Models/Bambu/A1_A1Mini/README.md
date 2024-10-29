@@ -42,15 +42,13 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
 <table>
   <tr>
     <td width="50%">
-      <img src="add-image-location-here" alt="Hardware Modifications" width="100%">
+      <img src="./images/P2.gif" alt="Hardware Modifications" width="100%">
     </td>
     <td width="50%">
       <ol>
-        <li>Step 1: ___</li>
-        <li>Step 2: ___</li>
-        <li>...</li>
+        <li><strong>Carefully</strong> remove 4 to 1 fitting</li>
       </ol>
-      <p>⚠️ <strong>Warning:</strong> Be careful not to modify any critical hardware or wiring that could affect your printer’s function.</p>
+      <p><strong>Note:</strong> To make this easier we recommend using a flat head screwdriver</p>
     </td>
   </tr>
 </table>
@@ -102,7 +100,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
 <table>
   <tr>
     <td width="50%">
-      <img src="add-image-location-here" alt="Attach the Adapter" width="100%">
+      <img src="./images/P3S3.gif" alt="Attach the Adapter" width="100%">
     </td>
     <td width="50%">
       <ol>
@@ -119,7 +117,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
 <table>
   <tr>
     <td width="50%">
-      <img src="add-image-location-here" alt="Plug in the S1" width="100%">
+      <img src="./images/P3S4.gif" alt="Plug in the S1" width="100%">
     </td>
     <td width="50%">
       <ol>
