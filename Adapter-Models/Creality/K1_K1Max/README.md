@@ -17,7 +17,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
 <table>
   <tr>
     <td width="50%">
-      <img src="./images/1028 (1).gif" alt="Attach the Adapter" width="100%">
+      <img src="./images/1028 (1).gif" alt="Attach the Adapter" width="200%">
     </td>
     <td width="50%">
       <ol>
