@@ -2,7 +2,7 @@
 This folder contains information for the **Prusa MKi3** adapter, designed to work with the **Infinity Flow S1** filament loader. To connect the S1 to your MKi3, you'll need adapter that links the Bowden tube from the S1 to your printer's extruder. This adapter is available for download or purchase on our website.
 
 ## Printer Compatibility
-- **Prusa MKi3
+- **Prusa MKi3**
 
 ## Contents
 - **Adapter_Part1.stl**: (Description of part, if applicable)
