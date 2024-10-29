@@ -6,7 +6,8 @@ This folder contains information for the **Prusa MK4** adapter, designed to work
 - **Prusa MK4**
 
 ## Contents
-- **Adapter_Part1.stl**: (Description of part, if applicable)
+- **MK4_Adapter.stl**: Printable file
+- **MK4_Adapter.stp**: CAD file
 
 # S1 Adapter Installation Guide
 
@@ -19,14 +20,13 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
 <table>
   <tr>
     <td width="50%">
-      <img src="add-image-location-here" alt="Print the Adapter" width="100%">
+      <img src="./images/adapter_slice.png" alt="Print the Adapter" width="100%">
     </td>
     <td width="50%">
-      <p><strong>Print Settings:</strong></p>
+      <p><strong>Print Settings: Original Prusa MK4 0.4 nozzle</strong></p>
       <ul>
-        <li>Material: ___</li>
-        <li>Layer Height: ___</li>
-        <li>Infill: ___</li>
+        <li>Material: PLA</li>
+        <li>Layer Height: .2mm</li>
         <li>Print Orientation: Ensure the adapter is oriented as in picture</li>
       </ul>
       <p>After printing, inspect the adapter for any imperfections or weak spots, especially around mounting holes.</p>
