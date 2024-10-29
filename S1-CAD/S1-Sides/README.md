@@ -18,6 +18,7 @@ The `S1-Rollers` folder contains STL files for printing rollers compatible with 
       <p><strong>Components:</strong></p>
       <ul>
         <li>Sides (2x)</li>
+        <li>Bearings(624zz) (4x)</li>
         <li>Rollers (4x)</li>
         <li>Rubber Feet (8x)</li>
         <li>M4x10mm screws (8x)</li>

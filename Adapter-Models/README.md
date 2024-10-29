@@ -1,6 +1,6 @@
 # Adapter Models
 
-The `Adapter-Models` folder provides adapter files for connecting the S1 to various printer brands. Adapters are organized by brand, with each brand folder containing specific model folders.
+The `Adapter-Models` folder provides adapter files and instructions for connecting the S1 to various printer brands. Adapters are organized by brand, with each brand folder containing specific model folders.
 
 ### Folder Structure
 

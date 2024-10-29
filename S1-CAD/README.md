@@ -16,6 +16,6 @@ The `S1-CAD` folder provides all necessary CAD files for integrating the Infinit
 
 ### 2. S1-Rollers
 
-The `S1-Rollers` section contains individual folders with STL files for rollers compatible with specific filament spool sizes. Each roller size (1kg, 3kg, and 5kg) includes all parts necessary for assembly.
+The `S1-Sides` section contains individual folders with STL files for rollers compatible with specific filament spool sizes. Each roller size (1kg, 3kg, and 5kg) includes all parts necessary for assembly.
 
-For detailed assembly instructions for each roller, please refer to our [website](https://infinityflow3d.com/).
+For more info, please refer to our [website](https://infinityflow3d.com/).
