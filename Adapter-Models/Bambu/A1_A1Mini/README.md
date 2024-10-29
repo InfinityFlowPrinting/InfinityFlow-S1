@@ -15,6 +15,7 @@ This folder contains information for the **Bambu A1** and **A1 Mini** adapter, d
 Follow these steps to print, modify, attach, and connect your S1 adapter to ensure a seamless setup.
 
 ---
+<div style="text-align: center;">
 
 ## Part 1: Printing the Adapter
 
@@ -46,9 +47,9 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
     </td>
     <td width="50%">
       <ul>
-        <li><strong>Carefully</strong> remove 4 to 1 fitting</li>
+        <p><strong>Carefully</strong> remove 4 to 1 fitting</p>
       </ul>
-      <li><strong>Note:</strong> To make this easier we recommend using a flat head screwdriver</li>
+      <p><strong>Note:</strong> To make this easier we recommend using a flat head screwdriver</p>
     </td>
   </tr>
 </table>
@@ -123,6 +124,8 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
