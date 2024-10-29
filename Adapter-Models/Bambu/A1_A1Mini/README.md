@@ -63,8 +63,8 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
       <img src="./images/P3S1.png" alt="Attach the Adapter" width="100%">
     </td>
     <td width="50%">
+      <li><strong>Step 1: Gather Hardware</strong></li>
       <ul>
-      <strong>Step 1: Gather Hardware</strong>
         <li>A1_Adapter (1x)</li>
         <li>Bowden Push Fitting (1x)</li>
       </ul>
@@ -79,8 +79,8 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
       <img src="./images/P3S2.gif" alt="Attach the Adapter" width="100%">
     </td>
     <td width="50%">
-      <ul>
       <li><strong>Step 2: Adapter Assembly</strong></li>
+      <ul>
         <li>Take off black ring from the fitting</li>
         <li>Place push fitting into adapter</li>
         <li>Place blue seat on top</li>
@@ -97,8 +97,8 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
       <img src="./images/P3S3.gif" alt="Attach the Adapter" width="100%">
     </td>
     <td width="50%">
-      <ul>
       <li><strong>Step 3: Attach Adapter</strong></li>
+      <ul>
         <li> Orient the adapter correclty (arrow in front)</li>
         <li> Press into printer opening until *click* is heard and adapter sits all the way down</li>
       </ul>
@@ -112,8 +112,8 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
       <img src="./images/P3S4.gif" alt="Plug in the S1" width="100%">
     </td>
     <td width="50%">
+    <li><strong>Step 4: Plugging in the S1</strong></li>
       <ul>
-      <li><strong>Step 4: Plugging in the S1</strong></li>
         <li>Insert the Bowden tube into the adapter’s feed port</li>
         <li>Ensure the S1 is positioned securely and all connections are properly seated</li>
         <li>Turn on the S1 and verify that it loads as expected</li>
