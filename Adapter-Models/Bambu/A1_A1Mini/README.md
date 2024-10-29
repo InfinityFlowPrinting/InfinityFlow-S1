@@ -63,7 +63,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
 <table>
   <tr>
     <td width="50%">
-      <img src="add-image-location-here" alt="Attach the Adapter" width="100%">
+      <img src="./images/P3S1.png" alt="Attach the Adapter" width="100%">
     </td>
     <td width="50%">
       <ol>
@@ -86,7 +86,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
     <td width="50%">
       <ol>
         <li>Place adapter on table</li>
-        <li>take off black ring from the fitting and place in adapter</li>
+        <li>Take off black ring from the fitting and place in adapter</li>
         <li>Place blue seat on top</li>
         <li>Gently press the adapter together (book recommended)</li>
       </ol>
