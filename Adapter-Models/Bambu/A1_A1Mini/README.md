@@ -7,7 +7,8 @@ This folder contains information for the **Bambu A1** and **A1 Mini** adapter, d
 - **Bambu A1 Mini**
 
 ## Contents
-- **Adapter_Part1.stl**: (Description of part, if applicable)
+- **A1_Adapter.stl**: Directly printable file
+- **A1_Adapter.stp**: Allterable CAD file
 
 # S1 Adapter Installation Guide
 
