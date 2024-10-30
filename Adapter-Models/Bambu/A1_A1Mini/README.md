@@ -86,7 +86,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
         <li>Place blue seat on top</li>
         <li>Gently press the adapter together (pliers recommended)</li>
       </ul>
-      <p><strong>Note:</strong> There are 2 rings on the push fitting. Make sure only the bottom one is removed.</p>
+      <p><strong>Note:</strong> There are 2 black rings on the push fitting. Make sure only the bottom one is removed.</p>
     </td>
   </tr>
 </table>
