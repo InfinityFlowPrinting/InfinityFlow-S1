@@ -41,12 +41,31 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
 <table>
   <tr>
     <td width="50%">
-      <img src="add-image-location-here" alt="Hardware Modifications" width="100%">
+      <img src="./images/P2S1.gif" alt="Hardware Modifications" width="100%">
     </td>
     <td width="50%">
+    <p><h2>Step 1: Front Cover</h2></p>
       <ul>
-        <li>Remove 3 screws on front cover, "PG-case"</li>
+        <li>Unscrew 3 screws on front cover, "PG-case"</li>
         <li>Remove cover</li>
+      </ul>
+    <p><strong>Note:</strong> Remove <strong>carfully</strong> as other parts are loose during this step</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./images/P2S2.gif" alt="Hardware Modifications" width="100%">
+    </td>
+    <td width="50%">
+    <p><h2>Step 2: Remove Hardware</h2></p>
+      <ul>
+        <li>Remove 3 screws on front cover</li>
+        <li>Remove white nylon washer inside cover</li>
       </ul>
     </td>
   </tr>
@@ -97,13 +116,14 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
 <table>
   <tr>
     <td width="50%">
-      <img src="add-image-location-here" alt="Attach the Adapter" width="100%">
+      <img src="./images/P3S3.gif" alt="Attach the Adapter" width="100%">
     </td>
     <td width="50%">
     <p><h2>Step 3: Attach Adapter</h2></p>
       <ul>
-        <li> Orient the adapter correclty (arrow in front)</li>
-        <li> Press into printer opening until *click* is heard and adapter sits all the way down</li>
+        <li> Place 3 screws and washer into adapter</li>
+        <li> Insert into prusa head</li>
+        <li> Screw in</li>
       </ul>
     </td>
   </tr>
@@ -114,12 +134,12 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
 <table>
   <tr>
     <td width="50%">
-      <img src="add-image-location-here" alt="Plug in the S1" width="100%">
+      <img src="./images/P3S4.gif" alt="Plug in the S1" width="100%">
     </td>
     <td width="50%">
     <p><h2>Step 4: Plugging in the S1</h2></p>
       <ul>
-        <li>Insert the Bowden tube into the adapter's feed port</li>
+        <li>Insert the Bowden tube into the adapter's feed port ensuring the Bowden tube sits all the way down</li>
         <li>Ensure the S1 is positioned securely and all connections are properly seated</li>
         <li>Turn on the S1 and verify that it loads as expected</li>
         <li>Begin printing :)</li>
