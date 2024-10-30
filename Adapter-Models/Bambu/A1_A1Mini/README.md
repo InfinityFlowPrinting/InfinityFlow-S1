@@ -30,7 +30,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
       <img src="./images/adapter slicer.png" alt="Print the Adapter" width="100%">
     </td>
     <td width="50%">
-      <li><strong>Print Settings: "0.20mm Standard @BBL A1"</strong></li>
+      <p><strong>Print Settings: "0.20mm Standard @BBL A1"</strong></p>
       <ul>
         <li>Material: Generic PLA </li>
         <li>Nozzle Diameter: .4mm </li>
