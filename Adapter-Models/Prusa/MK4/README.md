@@ -59,7 +59,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
 <table>
   <tr>
     <td width="50%">
-      <img src="add-image-location-here" alt="Attach the Adapter" width="100%">
+      <img src="./images/P3S1.png" alt="Attach the Adapter" width="100%">
     </td>
     <td width="50%">
     <p><h2>Step 1: Gather Hardware</h2></p>
@@ -77,7 +77,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
 <table>
   <tr>
     <td width="50%">
-      <img src="add-image-location-here" alt="Attach the Adapter" width="100%">
+      <img src="./images/P3S2.gif" alt="Attach the Adapter" width="100%">
     </td>
     <td width="50%">
     <p><h2>Step 2: Adapter Assembly</h2></p>
