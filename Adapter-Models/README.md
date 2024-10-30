@@ -5,11 +5,15 @@ The `Adapter-Models` folder provides adapter files and instructions for connecti
 ### Folder Structure
 
 - **Bambu/**: Contains adapters for Bambu models, including:
-  - **A1-A1Mini**: Adapter files for both A1 and A1 Mini models.
+  - **A1**
+  - **A1Mini**
+  - **P1S**
+  - **P1P**
 - **Prusa/**: Includes adapters for:
-  - **MK3**: Adapter for Prusa MK3 model.
-  - **MK4**: Adapter for Prusa MK4 model.
+  - **MKi3**
+  - **MK4**
 - **Creality/**: Contains adapters for Creality models, including:
-  - **K1-K1Max**: Adapter files for both K1 and K1 Max models.
+  - **K1**
+  - **K1 Max**
 
 Refer to the README in each printer model folder for specific instructions on installing the adapter.
