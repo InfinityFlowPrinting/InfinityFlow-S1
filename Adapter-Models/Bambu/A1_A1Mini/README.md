@@ -47,21 +47,19 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
 
 ## Part 2: Hardware Modifications
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="./images/P2.gif" alt="Hardware Modifications" width="100%">
-      </td>
-      <td width="50%">
-        <ul>
-          <p><strong>Carefully</strong> remove 4 to 1 fitting</p>
-        </ul>
-        <p><strong>Note:</strong> To make this easier we recommend using a flat head screwdriver</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./images/P2.gif" alt="Hardware Modifications" width="100%">
+    </td>
+    <td width="50%">
+      <ul>
+        <p><strong>Carefully</strong> remove 4 to 1 fitting</p>
+      </ul>
+      <p><strong>Note:</strong> To make this easier we recommend using a flat head screwdriver</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
