@@ -17,3 +17,12 @@ The `Adapter-Models` folder provides adapter files and instructions for connecti
   - **K1 Max**
 
 Refer to the README in each printer model folder for specific instructions on installing the adapter.
+
+### Bowden Push Fitting
+
+The **Bowden Push Fitting** (ECAS04) is also available in this folder as a `.stp` file. This is the push fitting we use for all our adapters and is provided for **modeling purposes**. You can download it and incorporate it into your CAD models when designing your own adapters to ensure compatibility with the S1 setup.
+
+<img src="./images/ECAS04 3D Printer Fitting CAD.png" alt="Logo" width="1000">
+
+If you need a physical fitting, you can **purchase the ECAS04** from our [website](https://infinityflow3d.com/).
+
