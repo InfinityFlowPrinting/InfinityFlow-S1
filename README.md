@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="./images/logo.png" alt="Logo" width="200" height="200" style="border-radius: 50%;">
-</p>
+# Infinity Flow S1
 
-# Infinity Flow S1 CAD Downloads
-
-Welcome to the Infinity Flow S1 CAD Downloads repository! This repository provides all necessary CAD files and assembly instructions for integrating the Infinity Flow S1 into your 3D printing setup.
+Welcome to the Infinity Flow S1 repository! This repository provides all necessary CAD files and assembly instructions for integrating the Infinity Flow S1 into your 3D printing setup.
 
 <img src="./images/S1_Rendering.png" alt="Logo" width="1000">
 
