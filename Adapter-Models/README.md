@@ -4,7 +4,7 @@ The `Adapter-Models` folder provides adapter files and instructions for connecti
 
 ### Folder Structure
 
-- **Bambu/**: Contains adapters for Bambu models, including:
+- **Bambu/**: Includes adapters for:
   - **A1**
   - **A1Mini**
   - **P1S**
@@ -12,7 +12,7 @@ The `Adapter-Models` folder provides adapter files and instructions for connecti
 - **Prusa/**: Includes adapters for:
   - **MKi3**
   - **MK4**
-- **Creality/**: Contains adapters for Creality models, including:
+- **Creality/**: Includes adapters for:
   - **K1**
   - **K1 Max**
 
