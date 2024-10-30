@@ -20,39 +20,43 @@ Follow these steps to connect your adapter to ensure a seamless setup.
 
 ## Part 1: Attaching the Adapter
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="./images/P1.gif" alt="Attach the Adapter" width="200%">
-    </td>
-    <td width="50%">
-      <ul>
-        <li>Attach adapter to printers existing bowden tube (Blue Side)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="./images/P1.gif" alt="Attach the Adapter" width="200%">
+      </td>
+      <td width="50%">
+        <ul>
+          <li>Attach adapter to printers existing bowden tube (Blue Side)</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## Part 2: Plugging in the S1
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="./images/P2.gif" alt="Plug in the S1" width="100%">
-    </td>
-    <td width="50%">
-      <ul>
-        <li>Insert the Bowden tube into the adapter's feed port (Black Side)</li>
-        <li>Ensure the S1 is positioned securely and all connections are properly seated</li>
-        <li>Turn on the S1 and verify that it loads as expected</li>
-        <li>Begin printing :)</li>
-      </ul>
-      <p><strong>Note:</strong> Check all connections for a secure fit, and ensure there are no loose cables</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="./images/P2.gif" alt="Plug in the S1" width="100%">
+      </td>
+      <td width="50%">
+        <ul>
+          <li>Insert the Bowden tube into the adapter's feed port (Black Side)</li>
+          <li>Ensure the S1 is positioned securely and all connections are properly seated</li>
+          <li>Turn on the S1 and verify that it loads as expected</li>
+          <li>Begin printing :)</li>
+        </ul>
+        <p><strong>Note:</strong> Check all connections for a secure fit, and ensure there are no loose cables</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
