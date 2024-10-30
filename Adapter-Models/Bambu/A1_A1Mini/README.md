@@ -24,40 +24,44 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
 
 ## Part 1: Printing the Adapter
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="./images/adapter slicer.png" alt="Print the Adapter" width="100%">
-    </td>
-    <td width="50%">
-      <p><strong>Print Settings: "0.20mm Standard @BBL A1"</strong></p>
-      <ul>
-        <li>Material: Generic PLA </li>
-        <li>Nozzle Diameter: .4mm </li>
-        <li>Print Orientation: Ensure the adapter is oriented as in picture</li>
-      </ul>
-      <li>After printing, inspect the adapter for any imperfections or weak spots, especially around mounting holes.</li>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="./images/adapter slicer.png" alt="Print the Adapter" width="100%">
+      </td>
+      <td width="50%">
+        <p><strong>Print Settings: "0.20mm Standard @BBL A1"</strong></p>
+        <ul>
+          <li>Material: Generic PLA </li>
+          <li>Nozzle Diameter: .4mm </li>
+          <li>Print Orientation: Ensure the adapter is oriented as in picture</li>
+        </ul>
+        <li>After printing, inspect the adapter for any imperfections or weak spots, especially around mounting holes.</li>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## Part 2: Hardware Modifications
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="./images/P2.gif" alt="Hardware Modifications" width="100%">
-    </td>
-    <td width="50%">
-      <ul>
-        <p><strong>Carefully</strong> remove 4 to 1 fitting</p>
-      </ul>
-      <p><strong>Note:</strong> To make this easier we recommend using a flat head screwdriver</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="./images/P2.gif" alt="Hardware Modifications" width="100%">
+      </td>
+      <td width="50%">
+        <ul>
+          <p><strong>Carefully</strong> remove 4 to 1 fitting</p>
+        </ul>
+        <p><strong>Note:</strong> To make this easier we recommend using a flat head screwdriver</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
