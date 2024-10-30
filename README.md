@@ -15,11 +15,11 @@ For specific assembly instructions and usage guidelines, refer to the README fil
 
 ## Community & Support
 
-Have questions, ideas, or an adapter design to share? Join the [Infinity Flow Community Discussions](https://github.com/yourusername/InfinityFlow-S1/discussions) to:
+Have questions, ideas, or an adapter design to share? Join the [Infinity Flow Community Discussions](https://github.com/InfinityFlowPrinting/InfinityFlow-S1/discussions) to:
 
-- **[Q&A](https://github.com/yourusername/InfinityFlow-S1/discussions/categories/q-a)**: Use this section for troubleshooting, setup help, and general questions.
-- **[Show and Tell](https://github.com/yourusername/InfinityFlow-S1/discussions/categories/show-and-tell)**: Share your custom adapters, modifications, or unique setups with the community.
-- **[Ideas](https://github.com/yourusername/InfinityFlow-S1/discussions/categories/ideas)**: Post suggestions for new adapters or improvements to help us enhance the Infinity Flow S1 experience.
+- **[Q&A](https://github.com/InfinityFlowPrinting/InfinityFlow-S1/discussions/categories/q-a)**: Use this section for troubleshooting, setup help, and general questions.
+- **[Show and Tell](https://github.com/InfinityFlowPrinting/InfinityFlow-S1/discussions/categories/show-and-tell)**: Share your custom adapters, modifications, or unique setups with the community.
+- **[Ideas](https://github.com/InfinityFlowPrinting/InfinityFlow-S1/discussions/categories/ideas)**: Post suggestions for new adapters or improvements to help us enhance the Infinity Flow S1 experience.
 
 Feel free to start a discussion or join existing threads to engage with other users and contributors.
 
