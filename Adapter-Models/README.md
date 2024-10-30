@@ -16,8 +16,8 @@ The `Adapter-Models` folder provides adapter files and instructions for connecti
   - **[K1](./Creality/K1_K1Max)**
   - **[K1 Max](./Creality/K1_K1Max)**
 - **[Fittings/](./Fittings)**: Contains `.stp` files for:
-  - **[Bowden Push Fitting](./Fittings/ECAS04.stp)** (ECAS04)
-  - **[Bowden Coupler](./Fittings/Bowden_Coupler.stp)**
+  - **Bowden Push Fitting** (ECAS04)
+  - **Bowden Coupler**
 
 If you need a physical fitting, you can **purchase the ECAS04** from our [website](https://infinityflow3d.com/).
 
