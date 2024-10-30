@@ -2,7 +2,9 @@
 
 This folder contains information for the **Creality K1** and **K1 Max** adapter, designed to work with the **Infinity Flow S1** filament loader. To connect the S1 to your K1/K1 Max, you'll need the adapter that links the Bowden tube from the S1 to your printer's extruder. 
 
-<img src="./images/Bowden Coupler Fitting CAD.png" alt="Logo" width="45%">
+<div align="center">
+  <img src="./images/Bowden Coupler Fitting CAD.png" alt="Logo" width="45%">
+</div>
 
 This adapter is available for purchase on our website [website](https://infinityflow3d.com/).
 
