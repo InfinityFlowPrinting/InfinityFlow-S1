@@ -6,7 +6,7 @@ This folder contains information for the **Bambu A1** and **A1 Mini** adapter, d
   <img src="./images/A1_Fitting.png" alt="Logo" width="45%">
 </div>
 
-This adapter is available for download or purchase on our website.
+This adapter is available for download or purchase on our [website](https://infinityflow3d.com/).
 
 ## Printer Compatibility
 - **Bambu A1**

@@ -6,7 +6,7 @@ This folder contains information for the **Bambu P1S** and **P1P** adapter, desi
   <img src="./images/Bowden Coupler Fitting CAD.png" alt="Logo" width="45%">
 </div>
 
-This adapter is available for purchase on our website [website](https://infinityflow3d.com/).
+This adapter is available for purchase on our [website](https://infinityflow3d.com/).
 
 ## Printer Compatibility
 - **Bambu P1S**

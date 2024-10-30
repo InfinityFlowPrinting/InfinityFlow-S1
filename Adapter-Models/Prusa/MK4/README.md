@@ -6,7 +6,7 @@ This folder contains information for the **Prusa MK4** adapter, designed to work
   <img src="./images/Prusa_Fitting.png" alt="Logo" width="45%">
 </div>
 
-This adapter is available for download or purchase on our website.
+This adapter is available for download or purchase on our [website](https://infinityflow3d.com/).
 
 ## Printer Compatibility
 - **Prusa MK4**
