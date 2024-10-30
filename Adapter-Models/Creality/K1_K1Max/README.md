@@ -20,9 +20,9 @@ Follow these steps to connect your adapter to ensure a seamless setup.
       <img src="./images/P1.gif" alt="Attach the Adapter" width="200%">
     </td>
     <td width="50%">
-      <ol>
+      <ul>
         <li>Attach adapter to printers existing bowden tube (Blue Side)</li>
-      </ol>
+      </ul>
     </td>
   </tr>
 </table>
