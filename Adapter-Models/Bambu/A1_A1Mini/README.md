@@ -105,7 +105,7 @@ Follow these steps to print, modify, attach, and connect your S1 adapter to ensu
     <td width="50%">
       <p><h2>Step 3: Attach Adapter</h2></p>
       <ul>
-        <li> Orient the adapter correclty (arrow in front)</li>
+        <li> Orient the adapter correctly (logo in front)</li>
         <li> Press into printer opening until *click* is heard and adapter sits all the way down</li>
       </ul>
     </td>
