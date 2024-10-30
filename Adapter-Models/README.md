@@ -16,8 +16,8 @@ The `Adapter-Models` folder provides adapter files and instructions for connecti
   - **[K1](./Creality/K1)**
   - **[K1 Max](./Creality/K1%20Max)**
 - **[Fittings/](./Fittings)**: Contains `.stp` files for **modeling purposes** and can be incorporated into your CAD models when designing your own adapters to ensure compatibility with the S1 setup:
-  - **[Bowden Push Fitting](./Fittings/Bowden_Push_Fitting.stp)** (ECAS04): Fitting used in all modeled adapters
-  - **[Bowden Coupler](./Fittings/Bowden_Coupler.stp)**: Fitting used when there is existing Bowden tube
+  - **[Bowden Push Fitting](./Fittings/ECAS04 (bowden press fitting).stp)** (ECAS04): Fitting used in all modeled adapters
+  - **[Bowden Coupler](./Fittings/Bowden Coupler.stp)**: Fitting used when there is existing Bowden tube
 
 If you need a physical fitting, you can **purchase the ECAS04** from our [website](https://infinityflow3d.com/).
 
