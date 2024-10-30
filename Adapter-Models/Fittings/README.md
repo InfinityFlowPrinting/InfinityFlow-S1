@@ -14,8 +14,8 @@ These `.stp` files are intended to help you model your own adapters accurately w
 If you need a physical fitting, you can **purchase** them from our [website](https://infinityflow3d.com/).
 
 <div align="center">
-  <img src="./Bowden_Coupler.stp" alt="Bowden Coupler" width="45%">
-  <img src="./ECAS04.stp" alt="Bowden Push Fitting" width="45%">
+  <img src="./images/Bowden_Coupler.png" alt="Bowden Coupler" width="45%">
+  <img src="./images/ECAS04.png" alt="Bowden Push Fitting" width="45%">
 </div>
 
 Each image above provides a visual reference for the fittings available in this folder.
