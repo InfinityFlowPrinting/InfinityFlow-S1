@@ -173,4 +173,4 @@ The `S1-Rollers` folder contains STL files for printing rollers compatible with 
 
 ---
 
-For further support, please refer to our [official website](https://yourwebsite.com).
+For further support, please refer to our [official Setup Guide](https://infinityflow3d.com/blogs/setup-guides/s1-setup-guide).

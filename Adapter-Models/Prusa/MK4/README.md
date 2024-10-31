@@ -1,15 +1,16 @@
-# Prusa MK4 Adapter
+# Prusa MK4 / MK4S Adapter
 
-This folder contains information for the **Prusa MK4** adapter, designed to work with the **Infinity Flow S1** filament loader. To connect the S1 to your MK4, you'll need the adapter that links the Bowden tube from the S1 to your printer's extruder. 
+This folder contains information for the **Prusa MK4** and **MK4S** adapter, designed to work with the **Infinity Flow S1** filament loader. To connect the S1 to your MK4/MK4S, you'll need the adapter that links the Bowden tube from the S1 to your printer's extruder. 
 
 <div align="center">
   <img src="./images/Prusa_Fitting.png" alt="Logo" width="45%">
 </div>
 
-This adapter is available for download or purchase on our [website](https://infinityflow3d.com/).
+This adapter is available here for download or purchase on our [website](https://infinityflow3d.com/products/pre-order-prusa-mk4-mk4s-infinity-flow-s1-adapter).
 
 ## Printer Compatibility
 - **Prusa MK4**
+- **Prusa MK4S**
 
 ## Contents
 - **MK4_Adapter.stl**: Printable file

@@ -19,7 +19,7 @@ The `Adapter-Models` folder provides adapter files and instructions for connecti
   - **Bowden Push Fitting** (ECAS04)
   - **Bowden Coupler**
 
-If you need a physical fitting, you can **purchase the ECAS04** from our [website](https://infinityflow3d.com/).
+If you need a physical adapter, you can **purchase them** from our [website](https://infinityflow3d.com/collections/adapters).
 
 Refer to the README in each printer model folder for specific instructions on installing the adapter.
 

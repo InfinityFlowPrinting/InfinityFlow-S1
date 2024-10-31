@@ -11,7 +11,7 @@ The `Fittings` folder contains `.stp` files for components used in the Infinity 
 
 These `.stp` files are intended to help you model your own adapters accurately with standard fittings used in the S1 setup. You can download and import these files into your CAD software to check space, fit, and ensure reliable performance in your designs.
 
-If you need a physical fitting, you can **purchase** them from our [website](https://infinityflow3d.com/).
+If you need a physical fitting, you can **purchase** them from our [website](https://infinityflow3d.com/collections/adapters).
 
 <div align="center">
   <img src="./images/Bowden_Coupler.png" alt="Bowden Coupler" width="45%">

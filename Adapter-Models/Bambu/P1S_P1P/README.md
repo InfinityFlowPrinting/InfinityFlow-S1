@@ -1,4 +1,4 @@
-# Creality K1 / K1 Max Adapter
+# Bambu P1S and P1P Adapter
 
 This folder contains information for the **Bambu P1S** and **P1P** adapter, designed to work with the **Infinity Flow S1** filament loader. To connect the S1 to your P1S/P1P, you'll need the adapter that links the Bowden tube from the S1 to your printer's extruder. 
 
@@ -6,7 +6,7 @@ This folder contains information for the **Bambu P1S** and **P1P** adapter, desi
   <img src="./images/Bowden Coupler Fitting CAD.png" alt="Logo" width="45%">
 </div>
 
-This adapter is available for purchase on our [website](https://infinityflow3d.com/).
+This adapter is available for purchase on our [website](https://infinityflow3d.com/products/bowden-coupler-adapter).
 
 ## Printer Compatibility
 - **Bambu P1S**
