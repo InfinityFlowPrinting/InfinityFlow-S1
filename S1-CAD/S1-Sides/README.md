@@ -2,6 +2,47 @@
 
 The `S1-Rollers` folder contains STL files for printing rollers compatible with 1kg, 3kg, and 5kg filament spools. Follow the instructions below to print and assemble your rollers.
 
+## Printing
+
+### Step 1: Preparing the 3D Printer
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./images/Orientation.png" alt="Printing Step 1" width="100%">
+    </td>
+    <td width="50%">
+      <p><strong>Orientation:</strong></p>
+      <ul>
+        <li>load the .stl file into your slicer of choice</li>
+        <li>orient the roller like picture</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Step 2: Printing the Parts
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./images/Settings.png" alt="Printing Step 2" width="100%">
+    </td>
+    <td width="50%">
+      <p><strong>Our Settings:</strong></p>
+      <ul>
+        <li>6mm Nozzle</li>
+        <li>Textured PEI Plate</li>
+        <li>.42mm layer height</li>
+        <li>Gyroid infil</li>
+      </ul>
+      <p><strong>Note:</strong> These are just our settings feel free to print however you want.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Instructions
 
 ### Step 1: Part Preparation
