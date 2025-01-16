@@ -3,7 +3,16 @@
 This folder contains information for the **Hang-Mount**, designed for the **InfinityFlow S1** filament loader. This mount allows you to securely attach the S1 to a wall or ceiling, optimizing workspace and providing convenient filament management.
 
 <div align="center">
-  <img src="./images/Hang_Mount.png" alt="Hang-Mount" width="45%">
+  <table>
+    <tr>
+      <td>
+        <img src="./images/Hang_Mount1.png" alt="Hang-Mount View 1" width="45%">
+      </td>
+      <td>
+        <img src="./images/Hang_Mount2.png" alt="Hang-Mount View 2" width="45%">
+      </td>
+    </tr>
+  </table>
 </div>
 
 The Hang-Mount files are available here for download:
