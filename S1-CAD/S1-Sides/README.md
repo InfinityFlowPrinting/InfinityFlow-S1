@@ -1,6 +1,6 @@
-# S1 Rollers
+# S1 Sides
 
-The `S1-Rollers` folder contains STL files for printing rollers compatible with 1kg, 3kg, and 5kg filament spools. Follow the instructions below to print and assemble your rollers.
+The `S1-Sides` folder contains STL files for printing Sides compatible with 1kg, 3kg, and 5kg filament spools. Follow the instructions below to print and assemble your rollers.
 
 ## Printing
 

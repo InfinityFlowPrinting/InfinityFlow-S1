@@ -14,8 +14,8 @@ The `S1-CAD` folder provides all necessary CAD files for integrating the Infinit
 - **Purpose**: The `S1_Main_Assembly.stl` file is a complete model of the S1 device, allowing users to visualize the space it occupies within a 3D printing setup.
 - **Usage**: Import the STL file into your preferred CAD software to plan your setup with the S1 in mind, ensuring adequate spacing for smooth operation.
 
-### 2. S1-Rollers
+### 2. S1-Sides
 
-The `S1-Sides` section contains individual folders with STL files for rollers compatible with specific filament spool sizes. Each roller size (1kg, 3kg, and 5kg) includes all parts necessary for assembly.
+The `S1-Sides` section contains individual folders with STL files for rollers compatible with specific filament spool sizes(1kg, 3kg, 5kg).
 
 For more info, please refer to our [website](https://infinityflow3d.com/).
