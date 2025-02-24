@@ -15,8 +15,6 @@ Keeping your **Infinity Flow S1** up to date is essential for ensuring optimal p
 
 The process is straightforward: **open the S1, connect it to a computer, flash the new firmware, and reassemble the unit.**
 
----
-
 ## Step 1: Opening the S1
 
 To access the S1’s internal components for updating the firmware, follow these steps:
@@ -29,8 +27,6 @@ To access the S1’s internal components for updating the firmware, follow these
   <img src="./images/Screws.png" alt="Logo" width="45%">
   <img src="./images/PCB.png" alt="Logo" width="45%">
 </p>
-
----
 
 ## Step 2: Flashing the New Firmware
 
@@ -48,8 +44,7 @@ To access the S1’s internal components for updating the firmware, follow these
    - A new drive named **"RPI-***"** will appear—this is the S1’s firmware storage.
 
 3. **Download the latest firmware**:
-   - Visit our **GitHub page** and in the top right corner hit the **“Download Raw File”** button.
-   - [Latest Firmware](https://github.com/InfinityFlowPrinting/InfinityFlow-S1/blob/main/S1-Firmware/IFS1v4.4.uf2)
+   - Visit our **GitHub Firmware page** (latest version is the highest number) and in the top right corner hit the **“Download Raw File”** button.
 
 4. **Update the firmware**:
    - Locate the **.uf2** file in your File Manager.
@@ -58,7 +53,6 @@ To access the S1’s internal components for updating the firmware, follow these
 <div align="center">
   <img src="./images/Drag and Drop.gif" alt="Logo" width="45%">
 </div>
----
 
 ## Step 3: Reassembling the S1
 
@@ -70,7 +64,6 @@ To access the S1’s internal components for updating the firmware, follow these
   <img src="./images/Wire Slot.png" alt="Logo" width="45%">
   <img src="./images/IMG_5719.jpg" alt="Logo" width="45%">
 </p>
----
 
 ## Completion
 
